@@ -19,6 +19,9 @@
             Jumlah kata: 4
         */
 
+        echo "<h3> Nama : Dede Rizki </h3>";
+        echo "<h3> Prodi: T-RPL </h3>";
+        echo "<br>";
         echo "<h3>Soal No 1</h3>";
 
         echo "Hello PHP";
