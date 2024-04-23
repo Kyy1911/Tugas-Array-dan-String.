@@ -9,6 +9,9 @@
     <h1>Berlatih Array</h1>
 
     <?php
+    echo "<h3> Nama : Dede Rizki </h3>";
+    echo "<h3> Prodi: T-RPL </h3>";
+    echo "<br>";
     echo "<h3> Soal 1 </h3>";
     /*
             Soal NO 1
